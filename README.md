@@ -32,7 +32,6 @@ Tabela de conteúdos
 
 🏫 Simulador de Bônus -  É uma solução para fazer o acompanhamento das metas e fazer a simulação do bônus anual para os Ibluers.
 
-Esse projeto foi desenvolvido pelos estagiários da IBlue Consulting,para a conclusão do mesmo ele foi dividido em partes onde nesse primeiro momento essa documentação vai explicar como foi feita a criação do FrontEnd.
  
 ##    🖥️ Regras de negócio
 ####  🧍  A aplicação deve redirecionar o usuário para uma página inicial com e-mail e senha;
@@ -43,6 +42,61 @@ Esse projeto foi desenvolvido pelos estagiários da IBlue Consulting,para a conc
 ####  🧍  O usuário esqueceu a senha deve digitar o código;
 ####  🧍  O usuário deve digitar a nova senha 2 vezes e confirmar;
 ####  🧍  O usuário pode clicar na tag cadatrar metas;
+
+
+## ⚙️ Funcionalidades
+
+- [x] Os colaboradores podem se cadastrar na aplicação usando:
+  - [x] um e-mail válido
+  - [x] uma senha válida
+
+- [x] Os colaboradores podem cadastrar suas metas individuais:
+  - [x] usando a tag cadastrar
+
+- [x] Os gestores podem consultar a visão individual:
+  - [x] podem visualizar as metas globais,metas setoriais,e metas individuais;
+  - [x] podem cadastrar novas metas;
+  - [x] podem fazer simulações de cada colaborador ;
+
+
+## 🚀 Como executar o projeto
+
+Este projeto foi dividido em varias partes, para poder ser execultado :
+1. Frontend
+
+💡 O Frontend para funcionar precisa ser execultado.
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).[ Vue.js](https://vuejs.org/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+
+#### 🧭 Rodando a aplicação web (Frontend)
+
+```bash
+# Clone este repositório
+$ git clone git@github.com:tgmarinho/README-ecoleta.git
+# Acesse a pasta do projeto no terminal/cmd
+$ cd iblue-school-front
+# Instale as dependências
+$ npm install ou yarn install
+# Crie um arquivo .env na raiz do projeto
+$ touch .env ou crie um arquivo pela IDE
+# Vá para o arquivo .env.example
+$ copie os dados do .env.example e cole no .env
+# Altere os dados do .env 
+$ Altere a porta ex: http://localhost:SUAPORTADOBACK
+# Execute a aplicação em modo de desenvolvimento
+$ npm run serve ou yarn serve
+# O servidor iniciará na porta:8080 por padrão - acesse http://localhost:8080
+# Observação: Essa aplicação só vai funcionar perfeitamente com o backend em node rodando em paralelo, ou seja, ao mesmo tempo. 
+```
+
+
+  
+
+
 
 
 
