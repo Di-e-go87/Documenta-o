@@ -8,7 +8,10 @@
 </h3>
 
 
- Conteúdos
+    
+    
+
+Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
@@ -23,6 +26,8 @@
      * [Server](#user-content-server--nodejs----typescript)
 <!--te-->
 
+
+
 ## 💻 Sobre o projeto
 
 🏫 Simulador de Bônus -  É uma solução para fazer o acompanhamento das metas e fazer a simulação do bônus anual para os Ibluers.
@@ -36,8 +41,20 @@ Esse projeto foi desenvolvido pelos estagiários da IBlue Consulting,para a conc
 ####  🧍  O usuário deve utilizar uma senha com mais de 6 caracteres;
 ####  🧍  Todos campos de registro e login do usuário deve ser obrigatório;
 ####  🧍  O usuário esqueceu a senha deve digitar o código;
-####  🧍  O  usuário deve digitar a nova senha 2 vezes e confirmar;
-####  🧍  O usuário deve utilizar um e-mail válido;
+####  🧍  O usuário deve digitar a nova senha 2 vezes e confirmar;
+####  🧍  O usuário pode clicar na tag cadatrar metas;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
