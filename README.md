@@ -19,9 +19,8 @@ Tabela de conteúdos
    * [Funcionalidades](#-funcionalidades)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
      * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
-   * [Tecnologias](#-tecnologias)
+     * [Tecnologias](#-tecnologias)
      * [Website](#user-content-website--react----typescript)
      * [Server](#user-content-server--nodejs----typescript)
 <!--te-->
@@ -86,12 +85,35 @@ $ touch .env ou crie um arquivo pela IDE
 # Vá para o arquivo .env.example
 $ copie os dados do .env.example e cole no .env
 # Altere os dados do .env 
-$ Altere a porta ex: http://localhost:SUAPORTADOBACK
+$ Altere a porta ex: http://localhost:9000
 # Execute a aplicação em modo de desenvolvimento
 $ npm run serve ou yarn serve
-# O servidor iniciará na porta:8080 por padrão - acesse http://localhost:8080
-# Observação: Essa aplicação só vai funcionar perfeitamente com o backend em node rodando em paralelo, ou seja, ao mesmo tempo. 
-```
+# O servidor iniciará na porta:8080 por padrão - acesse http://localhost:9000
+
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([Vue](https://vuejs.org/))
+
+-   **[Axios](https://github.com/axios/axios)**
+-   **[toastify-js](https://www.npmjs.com/package/toastify-js)**
+-   **[vue-router](https://router.vuejs.org/)**
+
+#### **Server**  ([NodeJS](https://nodejs.orgen/))
+
+-   **[mysql2](https://github.com/mapbox/node-sqlite3)**
+-   **[sequelize](https://sequelize.org/)**
+-   **[nodemon](https://github.com/TypeStrong/ts-node)**
+
+
+#### **Utilitários**
+
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+
+
 
 
   
