@@ -153,13 +153,13 @@ $ npm run serve ou yarn serve
 ## 🦸 Desenvolvedores do Projeto
 
 
-<a href="!https://user-images.githubusercontent.com/79488038/175302343-e0808e32-d441-47ff-aea5-bad95ba56865.jpg">
-
- <img style="border-radius: 50%;" src="https://www.linkedin.com/in/diego-gon%C3%A7alvesfonseca/" width="100px;" alt=""/>
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/87429689?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Diego Gonçalves da Fonseca</b></sub></a>
+ <sub><b>Wilson Pinheiro</b></sub></a>
  <br />
-
+ 
+[![Linkedin Badge](https://img.shields.io/twitter/url?label=LINKEDIN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilsonpinh%2F)](https://www.linkedin.com/in/diego-gon%C3%A7alvesfonseca/) 
 
 
 
