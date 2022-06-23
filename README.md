@@ -153,7 +153,7 @@ $ npm run serve ou yarn serve
 ## 🦸 Desenvolvedores do Projeto
 
 
-<a href="![Diego G](https://user-images.githubusercontent.com/79488038/175302343-e0808e32-d441-47ff-aea5-bad95ba56865.jpg)">
+<a href="!https://user-images.githubusercontent.com/79488038/175302343-e0808e32-d441-47ff-aea5-bad95ba56865.jpg">
 
  <img style="border-radius: 50%;" src="https://www.linkedin.com/in/diego-gon%C3%A7alvesfonseca/" width="100px;" alt=""/>
  <br />
