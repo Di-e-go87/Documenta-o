@@ -120,12 +120,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Axios](https://axios-http.com/ptbr/docs/intro)**
 -   **[vue-router](https://router.vuejs.org/)**
 
-#### **Server** ([NodeJS](https://nodejs.orgen/))
-
-
--   **[sequelize](https://sequelize.org/)**
--   **[nodemon](https://github.com/TypeStrong/ts-node)**
-
 
 #### **Utilitários**
 
@@ -153,3 +147,20 @@ $ Altere a porta ex: http://localhost:9000
 # Execute a aplicação em modo de desenvolvimento
 $ npm run serve ou yarn serve
 # O servidor iniciará na porta:8080 por padrão - acesse http://localhost:9000
+```
+
+
+## 🦸 Desenvolvedores do Projeto
+
+
+<a href="![Diego G](https://user-images.githubusercontent.com/79488038/175302343-e0808e32-d441-47ff-aea5-bad95ba56865.jpg)">
+
+ <img style="border-radius: 50%;" src="https://www.linkedin.com/in/diego-gon%C3%A7alvesfonseca/" width="100px;" alt=""/>
+ <br />
+ <sub><b>Diego Gonçalves da Fonseca</b></sub></a>
+ <br />
+
+
+
+
+
