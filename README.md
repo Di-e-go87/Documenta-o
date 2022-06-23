@@ -142,7 +142,7 @@ $ npm install ou yarn install
 $ touch .env ou crie um arquivo pela IDE
 # Vá para o arquivo .env.example
 $ copie os dados do .env.example e cole no .env
-# Altere os dados do .env 
+# Altere os dados  .env 
 $ Altere a porta ex: http://localhost:9000
 # Execute a aplicação em modo de desenvolvimento
 $ npm run serve ou yarn serve
@@ -150,16 +150,60 @@ $ npm run serve ou yarn serve
 ```
 
 
+## 🦸 Apoio do Projeto
+Para a realização deste projeto tivemos o apoio de  grandes profissionais que dedicaram seu tempo para poder nos orientar quanto o desenvolvimento da aplicação:
+
+
+- **[Miguel Marçola](https://www.linkedin.com/in/miguel-mar%C3%A7ola/)**
+
+- **[Vinícius Gomes](https://www.linkedin.com/in/viniciusgo/)**
+
+-  **[Vitor Henrique](https://www.linkedin.com/in/vitor-pessoti/)**
+
+
+
 ## 🦸 Desenvolvedores do Projeto
 
-
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/87429689?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Wilson Pinheiro</b></sub></a>
- <br />
- 
+ <sub><b>Diego Gonçalves</b></sub></a><br /> 
+  <div align-"center">
+ <img src="https://user-images.githubusercontent.com/79488038/175349475-26a34d5f-034a-4c1d-bbd4-ff15e03efec4.jpg" width="78px"
+      </div>
+      
 [![Linkedin Badge](https://img.shields.io/twitter/url?label=LINKEDIN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilsonpinh%2F)](https://www.linkedin.com/in/diego-gon%C3%A7alvesfonseca/) 
+
+
+
+ <sub><b>Joana Linhares </b></sub></a><br /> 
+  <div align-"center">
+ <img src="https://user-images.githubusercontent.com/79488038/175359889-67edb9bb-4cbb-48dc-a5ce-aa129bcd95aa.jpg" width="78px"
+      </div>
+      
+[![Linkedin Badge](https://img.shields.io/twitter/url?label=LINKEDIN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilsonpinh%2F)](https://www.linkedin.com/in/joana-linhares-da-silva-49a68b14b/) 
+
+
+ <sub><b>Matheus Saldanha</b></sub></a><br /> 
+  <div align-"center">
+ <img src="https://user-images.githubusercontent.com/79488038/175362078-cb1177c3-e7bb-4591-83f5-a343ab6eda5b.jpg" width="78px"
+      </div>
+      
+[![Linkedin Badge](https://img.shields.io/twitter/url?label=LINKEDIN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilsonpinh%2F)](https://www.linkedin.com/in/matheus-saldanha-coelho-975127149/) 
+
+
+ <sub><b>Ulremberg Barbosa</b></sub></a><br /> 
+  <div align-"center">
+ <img src="https://user-images.githubusercontent.com/79488038/175362081-9f2e565e-3d34-40b5-8d47-7c913bf6ea6a.jpg" width="78px"
+      </div>
+      
+[![Linkedin Badge](https://img.shields.io/twitter/url?label=LINKEDIN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilsonpinh%2F)](https://www.linkedin.com/in/ulremberg-barbosa-2b0074229/) 
+
+ <sub><b>Wilson Pinheiro</b></sub></a><br /> 
+  <div align-"center">
+ <img src="https://user-images.githubusercontent.com/79488038/175362074-b291e17b-4d10-4308-9373-078877fb3827.jpg" width="78px"
+      </div>
+      
+[![Linkedin Badge](https://img.shields.io/twitter/url?label=LINKEDIN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilsonpinh%2F)](https://www.linkedin.com/in/wilsonpinh/) 
+
+
 
 
 
