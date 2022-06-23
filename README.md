@@ -15,6 +15,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
+   * [Como foi o desenvolvimento](#-desenvolvimento-do-Projeto)
    * [Regras de negócio](#-regras-de-negocio)
    * [Funcionalidades](#-funcionalidades)
    * [Como executar o projeto](#-como-executar-o-projeto)
@@ -27,9 +28,38 @@ Tabela de conteúdos
 
 
 
+
+
 ## 💻 Sobre o projeto
 
-🏫 Simulador de Bônus -  É uma solução para fazer o acompanhamento das metas e fazer a simulação do bônus anual para os Ibluers.
+🏫 Simulador de Bônus -  É uma solução para fazer o acompanhamento das metas e fazer a simulação do bônus anual para todos os Ibluers.
+
+
+
+
+## 💻 Desenvolvimento do Projeto
+Esse projeto se deu inicio através de uma demanda onde foram passado para nós a documentação de como deveria ser a funcionalidade da aplicação, diante disso para poder iniciar esse projeto foi feito uma reunião para definir como seria a melhor maneira de desenvolver essa aplicação. Foram utilizados algumas ferramentas para ajudar no acompanhamento das fases do projeto. Uma dessas ferramentas que foi utilizada foi:
+
+-   **[Asana](https://app.asana.com/0/1202452055371260/board)**
+  Foi utilizado para poder gerenciar o trabalho e ajudar a equipe a se organizar quanto as tarefas para o desenvolvimento do projeto.
+  
+![2022-06-23 (2)](https://user-images.githubusercontent.com/79488038/175283714-45ae5f7c-27ce-4413-ab43-4a55713f9b57.png)
+
+
+
+
+
+
+-   **[Figma](https://www.figma.com/file/LhFiFLqeWBohyuvKPOAo7D/Hackathon%3A-Estagi%C3%A1rios?node-id=9%3A3)**
+Foi Utilizdo para fazer a criação das telas e prototipagem do nosso projeto,assim podemos ter uma ideia de como ficaria nosso projeto final.
+
+   ![2022-06-23 (1)](https://user-images.githubusercontent.com/79488038/175284904-4dd0994c-2016-44f9-9809-712ab070ea5b.png)
+
+
+
+
+
+
 
  
 ##    🖥️ Regras de negócio
@@ -41,6 +71,8 @@ Tabela de conteúdos
 ####  🧍  O usuário esqueceu a senha deve digitar o código;
 ####  🧍  O usuário deve digitar a nova senha 2 vezes e confirmar;
 ####  🧍  O usuário pode clicar na tag cadatrar metas;
+
+
 
 
 ## ⚙️ Funcionalidades
@@ -61,6 +93,8 @@ Tabela de conteúdos
 
 
 
+
+
 ## 🚀 Como executar o projeto
 
 Este projeto foi dividido em varias partes, para poder ser execultado :
@@ -72,6 +106,8 @@ Este projeto foi dividido em varias partes, para poder ser execultado :
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).[ Vue.js](https://vuejs.org/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+
 
 
 ## 🛠 Tecnologias
@@ -86,7 +122,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Server** ([NodeJS](https://nodejs.orgen/))
 
--   **[mysql2](https://github.com/mapbox/node-sqlite3)**
+
 -   **[sequelize](https://sequelize.org/)**
 -   **[nodemon](https://github.com/TypeStrong/ts-node)**
 
@@ -94,6 +130,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+
+
 
 
 
