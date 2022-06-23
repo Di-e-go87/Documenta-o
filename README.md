@@ -58,6 +58,9 @@ Tabela de conteúdos
   - [x] podem fazer simulações de cada colaborador ;
 
 
+
+
+
 ## 🚀 Como executar o projeto
 
 Este projeto foi dividido em varias partes, para poder ser execultado :
@@ -69,6 +72,29 @@ Este projeto foi dividido em varias partes, para poder ser execultado :
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).[ Vue.js](https://vuejs.org/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([Vue](https://vuejs.org/))
+
+-   **[Quasar](https://quasar.dev/)**
+-   **[Axios](https://axios-http.com/ptbr/docs/intro)**
+-   **[vue-router](https://router.vuejs.org/)**
+
+#### **Server** ([NodeJS](https://nodejs.orgen/))
+
+-   **[mysql2](https://github.com/mapbox/node-sqlite3)**
+-   **[sequelize](https://sequelize.org/)**
+-   **[nodemon](https://github.com/TypeStrong/ts-node)**
+
+
+#### **Utilitários**
+
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+
 
 
 #### 🧭 Rodando a aplicação web (Frontend)
@@ -89,54 +115,3 @@ $ Altere a porta ex: http://localhost:9000
 # Execute a aplicação em modo de desenvolvimento
 $ npm run serve ou yarn serve
 # O servidor iniciará na porta:8080 por padrão - acesse http://localhost:9000
-
-
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-#### **Website**  ([Vue](https://vuejs.org/))
-
--   **[Axios](https://github.com/axios/axios)**
--   **[toastify-js](https://www.npmjs.com/package/toastify-js)**
--   **[vue-router](https://router.vuejs.org/)**
-
-#### **Server**  ([NodeJS](https://nodejs.orgen/))
-
--   **[mysql2](https://github.com/mapbox/node-sqlite3)**
--   **[sequelize](https://sequelize.org/)**
--   **[nodemon](https://github.com/TypeStrong/ts-node)**
-
-
-#### **Utilitários**
-
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
